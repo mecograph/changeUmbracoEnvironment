@@ -4,7 +4,7 @@ Specifically designed for umbraco cms. Has to be minified (after the environment
 
 ## Environment Parameters Object
 
-domain: name of the domain (e.g. website is www.myawesomedomain.org then it's "myawesomedomain")
-environment.host: the subdomain part of the host
-environment.cmsHost: the subdomain part of the host for the cms
-environment.tld: topleveldomain part of the host
+- **domain**: name of the domain (e.g. website is www.myawesomedomain.org then it's "myawesomedomain")
+- **[environment].host**: the subdomain part of the host
+- **[environment].cmsHost**: the subdomain part of the host for the cms
+- **[environment].tld**: topleveldomain part of the host
